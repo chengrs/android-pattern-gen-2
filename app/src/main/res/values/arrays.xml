@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Used in xtalk pattern -->
+    <string-array name="xtalk">
+        <item>31</item>
+        <item>63</item>
+        <item>127</item>
+    </string-array>
+
+    <!-- Used in color pattern -->
+    <string-array name="color">
+        <item>0~31</item>
+        <item>0~63</item>
+        <item>0~95</item>
+        <item>0~233</item>
+    </string-array>
+</resources>
